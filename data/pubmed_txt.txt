@@ -1,0 +1,1374 @@
+PMID- 28318764
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20180305
+LR  - 20180508
+IS  - 1873-2585 (Electronic)
+IS  - 1047-2797 (Linking)
+VI  - 27
+IP  - 4
+DP  - 2017 Apr
+TI  - Increasing HIV-1 subtype diversity in seven states, United States, 2006-2013.
+PG  - 244-251.e1
+LID - S1047-2797(17)30152-7 [pii]
+LID - 10.1016/j.annepidem.2017.02.002 [doi]
+AB  - PURPOSE: The aim of the analysis was to explore HIV-1 subtype diversity in the 
+      United States and understand differences in prevalence of non-B subtypes and 
+      circulating recombinant forms (CRFs) between demographic/risk groups and over time. 
+      METHODS: We included HIV-1 polymerase sequences reported to the National HIV 
+      Surveillance System for HIV infections diagnosed during 2006-2013 in seven states. 
+      We assigned subtype or CRF using the automated subtyping tool COMET, assessed 
+      subtype/CRF prevalence by demographic characteristics and country of birth, and 
+      determined changes in subtype/CRF by HIV diagnosis year. RESULTS: Of 32,968 
+      sequences, 30,757 (93.3%) were subtype B. The most common non-B subtypes and CRFs 
+      were C (1.6%), CRF02_AG (1.4%), A (0.6%), CRF01_AE (0.5%), and G (0.3%). Elevated 
+      percentages of non-B infections occurred among persons aged <13 years at diagnosis 
+      (40.9%), Asians (32.1%), persons born outside the United States (22.6%), and persons 
+      with infection attributable to heterosexual contact (12.0%-15.0%). Prevalence of 
+      non-B infections increased from 5.9% in 2006 to 8.5% in 2013. CONCLUSIONS: Subtype B 
+      continues to predominate in the United States. However, the percentage of non-B 
+      infections has grown in recent years, and numerous demographic subgroups have much 
+      higher prevalence. Subgroups and areas with high prevalence of non-B infections 
+      might represent sub-epidemics meriting further investigation.
+CI  - Published by Elsevier Inc.
+FAU - Oster, Alexandra M
+AU  - Oster AM
+AD  - Division of HIV/AIDS Prevention, Centers for Disease Control and Prevention, 
+      Atlanta, GA. Electronic address: AOster@cdc.gov.
+FAU - Switzer, William M
+AU  - Switzer WM
+AD  - Division of HIV/AIDS Prevention, Centers for Disease Control and Prevention, 
+      Atlanta, GA.
+FAU - Hernandez, Angela L
+AU  - Hernandez AL
+AD  - Division of HIV/AIDS Prevention, Centers for Disease Control and Prevention, 
+      Atlanta, GA.
+FAU - Saduvala, Neeraja
+AU  - Saduvala N
+AD  - ICF International, Atlanta, GA.
+FAU - Wertheim, Joel O
+AU  - Wertheim JO
+AD  - ICF International, Atlanta, GA; Department of Medicine, University of California, 
+      San Diego.
+FAU - Nwangwu-Ike, Ndidi
+AU  - Nwangwu-Ike N
+AD  - Division of HIV/AIDS Prevention, Centers for Disease Control and Prevention, 
+      Atlanta, GA.
+FAU - Ocfemia, M Cheryl
+AU  - Ocfemia MC
+AD  - Division of HIV/AIDS Prevention, Centers for Disease Control and Prevention, 
+      Atlanta, GA.
+FAU - Campbell, Ellsworth
+AU  - Campbell E
+AD  - Division of HIV/AIDS Prevention, Centers for Disease Control and Prevention, 
+      Atlanta, GA.
+FAU - Hall, H Irene
+AU  - Hall HI
+AD  - Division of HIV/AIDS Prevention, Centers for Disease Control and Prevention, 
+      Atlanta, GA.
+LA  - eng
+PT  - Journal Article
+PT  - Research Support, U.S. Gov't, P.H.S.
+DEP - 20170222
+PL  - United States
+TA  - Ann Epidemiol
+JT  - Annals of epidemiology
+JID - 9100013
+RN  - EC 2.7.7.49 (HIV Reverse Transcriptase)
+RN  - EC 3.4.23.- (HIV Protease)
+SB  - IM
+MH  - Adolescent
+MH  - Adult
+MH  - Child
+MH  - Colorado/epidemiology
+MH  - Connecticut/epidemiology
+MH  - Female
+MH  - Genetic Variation/genetics
+MH  - HIV Infections/epidemiology/*virology
+MH  - HIV Protease/genetics
+MH  - HIV Reverse Transcriptase/genetics
+MH  - *HIV-1/genetics
+MH  - Humans
+MH  - Male
+MH  - Michigan/epidemiology
+MH  - Middle Aged
+MH  - New York/epidemiology
+MH  - South Carolina/epidemiology
+MH  - Texas/epidemiology
+MH  - United States
+MH  - Washington/epidemiology
+MH  - Young Adult
+OTO - NOTNLM
+OT  - *HIV-1
+OT  - *Homosexuality
+OT  - *Intravenous
+OT  - *Molecular epidemiology
+OT  - *Risk factors
+OT  - *Substance abuse
+OT  - *Subtypes
+OT  - *Surveillance
+EDAT- 2017/03/21 06:00
+MHDA- 2018/03/06 06:00
+CRDT- 2017/03/21 06:00
+PHST- 2016/05/16 00:00 [received]
+PHST- 2017/01/19 00:00 [revised]
+PHST- 2017/02/07 00:00 [accepted]
+PHST- 2017/03/21 06:00 [pubmed]
+PHST- 2018/03/06 06:00 [medline]
+PHST- 2017/03/21 06:00 [entrez]
+AID - S1047-2797(17)30152-7 [pii]
+AID - 10.1016/j.annepidem.2017.02.002 [doi]
+PST - ppublish
+SO  - Ann Epidemiol. 2017 Apr;27(4):244-251.e1. doi: 10.1016/j.annepidem.2017.02.002. Epub 
+      2017 Feb 22.
+
+PMID- 32692108
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20210311
+LR  - 20210816
+IS  - 1944-7884 (Electronic)
+IS  - 1525-4135 (Print)
+IS  - 1525-4135 (Linking)
+VI  - 84
+IP  - 5
+DP  - 2020 Aug 15
+TI  - Black Cisgender Women's PrEP Knowledge, Attitudes, Preferences, and Experience in 
+      Chicago.
+PG  - 497-507
+LID - 10.1097/QAI.0000000000002377 [doi]
+AB  - BACKGROUND: Although black cisgender women in Chicago continue to disproportionally 
+      account for new HIV diagnoses, few are on pre-exposure prophylaxis (PrEP). We used 
+      concurrent mixed-methods to understand women's PrEP knowledge, attitudes, 
+      experience, and preferences in Chicago. SETTING AND METHODS: We surveyed 370 HIV(-) 
+      cisgender women visiting a sexually transmitted infection clinic (n = 120) or 
+      emergency department (n = 250). Two focus groups were conducted with PrEP-naive 
+      women, and interviews were conducted with 7 PrEP-experienced women. Quantitative 
+      data were analyzed using descriptive statistics and multivariable logistic 
+      regression, and qualitative data using thematic analysis. RESULTS: Majority of women 
+      identified as black (83.0%) and had a regular source of health care (70.0%). In the 
+      past 6 months, 84.1% had vaginal or anal sex, most with inconsistent condom use 
+      (94.2%). Only 30.3% had heard of PrEP, but once explained, one-quarter considered 
+      starting PrEP, with protecting health (76.4%) and reducing HIV worry (58.1%) the 
+      most common reasons. Factors associated with considering PrEP included being Latina 
+      [adjusted odds ratio (aOR): 3.30, 95% confidence interval (CI): (1.21 to 8.99)], 
+      recent sexually transmitted infection [aOR: 2.39, 95% CI: (1.25 to 4.59)], and 
+      higher belief in PrEP effectiveness [aOR: 1.85, 95% CI: (1.22 to 2.82)]. Most 
+      (81.1%) had concerns about taking PrEP with side effects a common concern. 
+      Qualitative themes aligned with survey results, revealing a disconnection from 
+      current PrEP marketing, need for community-level PrEP education/outreach, and 
+      importance of provider trust. LESSONS LEARNED: Despite significant PrEP 
+      implementation work in Chicago, less than one-third of women in our study had heard 
+      of PrEP. Once informed, PrEP attitudes and interest were positive. Translating these 
+      results into interventions reflecting women's preferences and barriers is critical 
+      to increase PrEP uptake by cisgender women in Chicago and elsewhere.
+FAU - Hirschhorn, Lisa R
+AU  - Hirschhorn LR
+AD  - Medical Social Sciences, Feinberg School of Medicine, Northwestern University, 
+      Chicago, IL.
+FAU - Brown, Rayna N
+AU  - Brown RN
+AD  - Medical Social Sciences, Feinberg School of Medicine, Northwestern University, 
+      Chicago, IL.
+FAU - Friedman, Eleanor E
+AU  - Friedman EE
+AD  - Department of Medicine, University of Chicago, Chicago, IL.
+FAU - Greene, George J
+AU  - Greene GJ
+AD  - Medical Social Sciences, Feinberg School of Medicine, Northwestern University, 
+      Chicago, IL.
+FAU - Bender, Alvie
+AU  - Bender A
+AD  - Department of Medicine, University of Chicago, Chicago, IL.
+FAU - Christeller, Catherine
+AU  - Christeller C
+AD  - Chicago Women's AIDS Project, Chicago, IL.
+FAU - Bouris, Alida
+AU  - Bouris A
+AD  - School of Social Service Administration, University of Chicago, Chicago, IL.
+FAU - Johnson, Amy K
+AU  - Johnson AK
+AD  - Pediatrics, Lurie Children's Hospital, Chicago, IL.
+FAU - Pickett, Jim
+AU  - Pickett J
+AD  - AIDS Foundation of Chicago, Chicago, IL; and.
+FAU - Modali, Laxmi
+AU  - Modali L
+AD  - Chicago Department of Public Health, Chicago, IL.
+FAU - Ridgway, Jessica P
+AU  - Ridgway JP
+AD  - Department of Medicine, University of Chicago, Chicago, IL.
+LA  - eng
+GR  - P30 AI117943/AI/NIAID NIH HHS/United States
+GR  - R25 DA028567/DA/NIDA NIH HHS/United States
+PT  - Journal Article
+PT  - Research Support, N.I.H., Extramural
+PT  - Research Support, Non-U.S. Gov't
+TA  - J Acquir Immune Defic Syndr
+JT  - Journal of acquired immune deficiency syndromes (1999)
+JID - 100892005
+RN  - 0 (Anti-HIV Agents)
+SB  - IM
+MH  - Adolescent
+MH  - Adult
+MH  - *African Americans
+MH  - Anti-HIV Agents/administration & dosage/*therapeutic use
+MH  - Chicago
+MH  - Female
+MH  - HIV Infections/*prevention & control
+MH  - *HIV-1
+MH  - *Health Knowledge, Attitudes, Practice
+MH  - Humans
+MH  - Middle Aged
+MH  - *Pre-Exposure Prophylaxis
+MH  - Young Adult
+PMC - PMC7378883
+MID - NIHMS1584990
+EDAT- 2020/07/22 06:00
+MHDA- 2021/03/12 06:00
+CRDT- 2020/07/22 06:00
+PHST- 2020/07/22 06:00 [entrez]
+PHST- 2020/07/22 06:00 [pubmed]
+PHST- 2021/03/12 06:00 [medline]
+AID - 00126334-202008150-00008 [pii]
+AID - 10.1097/QAI.0000000000002377 [doi]
+PST - ppublish
+SO  - J Acquir Immune Defic Syndr. 2020 Aug 15;84(5):497-507. doi: 
+      10.1097/QAI.0000000000002377.
+
+PMID- 29069298
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20191022
+LR  - 20211204
+IS  - 1537-6591 (Electronic)
+IS  - 1058-4838 (Print)
+IS  - 1058-4838 (Linking)
+VI  - 66
+IP  - 6
+DP  - 2018 Mar 5
+TI  - High Human Immunodeficiency Virus Incidence and Prevalence and Associated Factors 
+      Among Adolescent Sexual Minority Males-3 Cities, 2015.
+PG  - 936-944
+LID - 10.1093/cid/cix902 [doi]
+AB  - BACKGROUND: Much has been written about the impact of human immunodeficiency virus 
+      (HIV) among young (13-24) sexual minority men (SMM). Evidence for concern is 
+      substantial for emerging adult (18-24 years) SMM. Data documenting the burden and 
+      associated risk factors of HIV among adolescent SMM (<18 years) remain limited. 
+      METHODS: Adolescent SMM aged 13-18 years were recruited in 3 cities (Chicago, New 
+      York City, and Philadelphia) for interview and HIV testing. We used χ2 tests for 
+      percentages of binary variables and 1-way analysis of variance for means of 
+      continuous variables to assess differences by race/ethnicity in behaviors. We 
+      calculated estimated annual HIV incidence density (number of HIV infections per 100 
+      person-years [PY] at risk). We computed Fisher's exact tests to determine 
+      differences in HIV prevalence by selected characteristics. RESULTS: Of 415 sexually 
+      active adolescent SMM with a valid HIV test result, 25 (6%) had a positive test. 
+      Estimated annual HIV incidence density was 3.4/100 PY; incidence density was highest 
+      for blacks, followed by Hispanics, then whites (4.1, 3.2, and 1.1/100 PY, 
+      respectively). Factors associated with higher HIV prevalence included black race; ≥4 
+      male partners, condomless anal sex, and exchange sex in the past 12 months; and a 
+      recent partner who was older, black, HIV-infected, or had ever been in jail or 
+      prison (P < .05). CONCLUSIONS: HIV-related risk behaviors, prevalence, and estimated 
+      incidence density for adolescent SMM were high, especially for minority SMM. Our 
+      findings suggest that initiating intervention efforts early may be helpful in 
+      combating these trends.
+CI  - Published by Oxford University Press for the Infectious Diseases Society of America 
+      2017. This work is written by (a) US Government employee(s) and is in the public 
+      domain in the US.
+FAU - Balaji, Alexandra B
+AU  - Balaji AB
+AD  - Division of HIV/AIDS Prevention, National Center for HIV/AIDS, Viral Hepatitis, STD, 
+      and TB Prevention, Centers for Disease Control and Prevention, Atlanta, Georgia.
+FAU - An, Qian
+AU  - An Q
+AD  - Division of HIV/AIDS Prevention, National Center for HIV/AIDS, Viral Hepatitis, STD, 
+      and TB Prevention, Centers for Disease Control and Prevention, Atlanta, Georgia.
+FAU - Smith, Justin C
+AU  - Smith JC
+AD  - Division of HIV/AIDS Prevention, National Center for HIV/AIDS, Viral Hepatitis, STD, 
+      and TB Prevention, Centers for Disease Control and Prevention, Atlanta, Georgia.
+AD  - Department of Behavioral Sciences and Health Education, Rollins School of Public 
+      Health, Emory University, Atlanta, Georgia.
+AD  - Oak Ridge Institute for Science and Education, Tennessee.
+FAU - Newcomb, Michael E
+AU  - Newcomb ME
+AD  - Institute for Sexual and Gender Minority Health and Wellbeing and Department of 
+      Medical Social Sciences, Northwestern University, Illinois.
+FAU - Mustanski, Brian
+AU  - Mustanski B
+AD  - Institute for Sexual and Gender Minority Health and Wellbeing and Department of 
+      Medical Social Sciences, Northwestern University, Illinois.
+FAU - Prachand, Nikhil G
+AU  - Prachand NG
+AD  - Office of Epidemiology, Chicago Department of Public Health, Illinois.
+FAU - Brady, Kathleen A
+AU  - Brady KA
+AD  - AIDS Activities Coordinating Office, Philadelphia Department of Public Health, 
+      Pennsylvania.
+FAU - Braunstein, Sarah
+AU  - Braunstein S
+AD  - HIV Epidemiology and Field Services Unit, New York City Department of Health and 
+      Mental Hygiene, New York.
+FAU - Paz-Bailey, Gabriela
+AU  - Paz-Bailey G
+AD  - Division of HIV/AIDS Prevention, National Center for HIV/AIDS, Viral Hepatitis, STD, 
+      and TB Prevention, Centers for Disease Control and Prevention, Atlanta, Georgia.
+CN  - National HIV Behavioral Surveillance for Young Men Who Have Sex with Men (NHBS-YMSM) 
+      Study Group
+LA  - eng
+GR  - CC999999/Intramural CDC HHS/United States
+PT  - Journal Article
+PT  - Research Support, U.S. Gov't, Non-P.H.S.
+PT  - Research Support, U.S. Gov't, P.H.S.
+TA  - Clin Infect Dis
+JT  - Clinical infectious diseases : an official publication of the Infectious Diseases 
+      Society of America
+JID - 9203213
+SB  - IM
+MH  - Adolescent
+MH  - African Americans/statistics & numerical data
+MH  - Chicago/epidemiology
+MH  - Cities
+MH  - Condoms
+MH  - HIV
+MH  - HIV Infections/*epidemiology/ethnology
+MH  - Hispanic or Latino/statistics & numerical data
+MH  - *Homosexuality, Male
+MH  - Humans
+MH  - Incidence
+MH  - Male
+MH  - New York City/epidemiology
+MH  - Philadelphia/epidemiology
+MH  - Prevalence
+MH  - Risk Factors
+MH  - Risk-Taking
+MH  - Sexual Behavior
+MH  - Sexual Partners
+MH  - Sexual and Gender Minorities
+MH  - Whites/statistics & numerical data
+PMC - PMC5842134
+MID - NIHMS943854
+COIS- Potential conflicts of interest. All authors: No reported conflicts. All authors 
+      have submitted the ICMJE Form for Disclosure of Potential Conflicts of Interest. 
+      Conflicts that the editors consider relevant to the content of the manuscript have 
+      been disclosed.
+EDAT- 2017/10/27 06:00
+MHDA- 2019/10/23 06:00
+CRDT- 2017/10/26 06:00
+PHST- 2017/06/26 00:00 [received]
+PHST- 2017/10/23 00:00 [accepted]
+PHST- 2017/10/27 06:00 [pubmed]
+PHST- 2019/10/23 06:00 [medline]
+PHST- 2017/10/26 06:00 [entrez]
+AID - 4562752 [pii]
+AID - 10.1093/cid/cix902 [doi]
+PST - ppublish
+SO  - Clin Infect Dis. 2018 Mar 5;66(6):936-944. doi: 10.1093/cid/cix902.
+
+PMID- 27468059
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20160809
+LR  - 20160729
+IS  - 1533-4406 (Electronic)
+IS  - 0028-4793 (Linking)
+VI  - 375
+IP  - 3
+DP  - 2016 Jul 21
+TI  - HIV Infection Linked to Injection Use of Oxymorphone in Indiana, 2014-2015.
+PG  - 229-39
+LID - 10.1056/NEJMoa1515195 [doi]
+AB  - BACKGROUND: In January 2015, a total of 11 new diagnoses of human immunodeficiency 
+      virus (HIV) infection were reported in a small community in Indiana. We investigated 
+      the extent and cause of the outbreak and implemented control measures. METHODS: We 
+      identified an outbreak-related case as laboratory-confirmed HIV infection newly 
+      diagnosed after October 1, 2014, in a person who either resided in Scott County, 
+      Indiana, or was named by another case patient as a syringe-sharing or sexual 
+      partner. HIV polymerase (pol) sequences from case patients were phylogenetically 
+      analyzed, and potential risk factors associated with HIV infection were ascertained. 
+      RESULTS: From November 18, 2014, to November 1, 2015, HIV infection was diagnosed in 
+      181 case patients. Most of these patients (87.8%) reported having injected the 
+      extended-release formulation of the prescription opioid oxymorphone, and 92.3% were 
+      coinfected with hepatitis C virus. Among 159 case patients who had an HIV type 1 pol 
+      gene sequence, 157 (98.7%) had sequences that were highly related, as determined by 
+      phylogenetic analyses. Contact tracing investigations led to the identification of 
+      536 persons who were named as contacts of case patients; 468 of these contacts 
+      (87.3%) were located, assessed for risk, tested for HIV, and, if infected, linked to 
+      care. The number of times a contact was named as a syringe-sharing partner by a case 
+      patient was significantly associated with the risk of HIV infection (adjusted risk 
+      ratio for each time named, 1.9; P<0.001). In response to this outbreak, a public 
+      health emergency was declared on March 26, 2015, and a syringe-service program in 
+      Indiana was established for the first time. CONCLUSIONS: Injection-drug use of 
+      extended-release oxymorphone within a network of persons who inject drugs in Indiana 
+      led to the introduction and rapid transmission of HIV. (Funded by the state 
+      government of Indiana and others.).
+FAU - Peters, Philip J
+AU  - Peters PJ
+AD  - From the Division of HIV/AIDS Prevention, National Center for HIV, Viral Hepatitis, 
+      STD, and TB Prevention, Centers for Disease Control and Prevention, Atlanta (P.J.P., 
+      K.W.H., M.R.P., R.R.G., M.W.S., W.M.S., Y.K., S.M.O., V.M., P.J.W., D.B., T.S., 
+      J.M., J.T.B.); and the Indiana State Department of Health (P.P., S.J.B., C.C., J.G., 
+      E.C., J.C.R., J.W., J.M.D.), Indiana University School of Medicine (J.W.), and 
+      Indiana University Richard M. Fairbanks School of Public Health (J.M.D.), 
+      Indianapolis, Clark County Health Department, Jeffersonville (J.S., D.W.), and Scott 
+      County Health Department, Scottsburg (B.C.) - all in Indiana.
+FAU - Pontones, Pamela
+AU  - Pontones P
+AD  - From the Division of HIV/AIDS Prevention, National Center for HIV, Viral Hepatitis, 
+      STD, and TB Prevention, Centers for Disease Control and Prevention, Atlanta (P.J.P., 
+      K.W.H., M.R.P., R.R.G., M.W.S., W.M.S., Y.K., S.M.O., V.M., P.J.W., D.B., T.S., 
+      J.M., J.T.B.); and the Indiana State Department of Health (P.P., S.J.B., C.C., J.G., 
+      E.C., J.C.R., J.W., J.M.D.), Indiana University School of Medicine (J.W.), and 
+      Indiana University Richard M. Fairbanks School of Public Health (J.M.D.), 
+      Indianapolis, Clark County Health Department, Jeffersonville (J.S., D.W.), and Scott 
+      County Health Department, Scottsburg (B.C.) - all in Indiana.
+FAU - Hoover, Karen W
+AU  - Hoover KW
+AD  - From the Division of HIV/AIDS Prevention, National Center for HIV, Viral Hepatitis, 
+      STD, and TB Prevention, Centers for Disease Control and Prevention, Atlanta (P.J.P., 
+      K.W.H., M.R.P., R.R.G., M.W.S., W.M.S., Y.K., S.M.O., V.M., P.J.W., D.B., T.S., 
+      J.M., J.T.B.); and the Indiana State Department of Health (P.P., S.J.B., C.C., J.G., 
+      E.C., J.C.R., J.W., J.M.D.), Indiana University School of Medicine (J.W.), and 
+      Indiana University Richard M. Fairbanks School of Public Health (J.M.D.), 
+      Indianapolis, Clark County Health Department, Jeffersonville (J.S., D.W.), and Scott 
+      County Health Department, Scottsburg (B.C.) - all in Indiana.
+FAU - Patel, Monita R
+AU  - Patel MR
+AD  - From the Division of HIV/AIDS Prevention, National Center for HIV, Viral Hepatitis, 
+      STD, and TB Prevention, Centers for Disease Control and Prevention, Atlanta (P.J.P., 
+      K.W.H., M.R.P., R.R.G., M.W.S., W.M.S., Y.K., S.M.O., V.M., P.J.W., D.B., T.S., 
+      J.M., J.T.B.); and the Indiana State Department of Health (P.P., S.J.B., C.C., J.G., 
+      E.C., J.C.R., J.W., J.M.D.), Indiana University School of Medicine (J.W.), and 
+      Indiana University Richard M. Fairbanks School of Public Health (J.M.D.), 
+      Indianapolis, Clark County Health Department, Jeffersonville (J.S., D.W.), and Scott 
+      County Health Department, Scottsburg (B.C.) - all in Indiana.
+FAU - Galang, Romeo R
+AU  - Galang RR
+AD  - From the Division of HIV/AIDS Prevention, National Center for HIV, Viral Hepatitis, 
+      STD, and TB Prevention, Centers for Disease Control and Prevention, Atlanta (P.J.P., 
+      K.W.H., M.R.P., R.R.G., M.W.S., W.M.S., Y.K., S.M.O., V.M., P.J.W., D.B., T.S., 
+      J.M., J.T.B.); and the Indiana State Department of Health (P.P., S.J.B., C.C., J.G., 
+      E.C., J.C.R., J.W., J.M.D.), Indiana University School of Medicine (J.W.), and 
+      Indiana University Richard M. Fairbanks School of Public Health (J.M.D.), 
+      Indianapolis, Clark County Health Department, Jeffersonville (J.S., D.W.), and Scott 
+      County Health Department, Scottsburg (B.C.) - all in Indiana.
+FAU - Shields, Jessica
+AU  - Shields J
+AD  - From the Division of HIV/AIDS Prevention, National Center for HIV, Viral Hepatitis, 
+      STD, and TB Prevention, Centers for Disease Control and Prevention, Atlanta (P.J.P., 
+      K.W.H., M.R.P., R.R.G., M.W.S., W.M.S., Y.K., S.M.O., V.M., P.J.W., D.B., T.S., 
+      J.M., J.T.B.); and the Indiana State Department of Health (P.P., S.J.B., C.C., J.G., 
+      E.C., J.C.R., J.W., J.M.D.), Indiana University School of Medicine (J.W.), and 
+      Indiana University Richard M. Fairbanks School of Public Health (J.M.D.), 
+      Indianapolis, Clark County Health Department, Jeffersonville (J.S., D.W.), and Scott 
+      County Health Department, Scottsburg (B.C.) - all in Indiana.
+FAU - Blosser, Sara J
+AU  - Blosser SJ
+AD  - From the Division of HIV/AIDS Prevention, National Center for HIV, Viral Hepatitis, 
+      STD, and TB Prevention, Centers for Disease Control and Prevention, Atlanta (P.J.P., 
+      K.W.H., M.R.P., R.R.G., M.W.S., W.M.S., Y.K., S.M.O., V.M., P.J.W., D.B., T.S., 
+      J.M., J.T.B.); and the Indiana State Department of Health (P.P., S.J.B., C.C., J.G., 
+      E.C., J.C.R., J.W., J.M.D.), Indiana University School of Medicine (J.W.), and 
+      Indiana University Richard M. Fairbanks School of Public Health (J.M.D.), 
+      Indianapolis, Clark County Health Department, Jeffersonville (J.S., D.W.), and Scott 
+      County Health Department, Scottsburg (B.C.) - all in Indiana.
+FAU - Spiller, Michael W
+AU  - Spiller MW
+AD  - From the Division of HIV/AIDS Prevention, National Center for HIV, Viral Hepatitis, 
+      STD, and TB Prevention, Centers for Disease Control and Prevention, Atlanta (P.J.P., 
+      K.W.H., M.R.P., R.R.G., M.W.S., W.M.S., Y.K., S.M.O., V.M., P.J.W., D.B., T.S., 
+      J.M., J.T.B.); and the Indiana State Department of Health (P.P., S.J.B., C.C., J.G., 
+      E.C., J.C.R., J.W., J.M.D.), Indiana University School of Medicine (J.W.), and 
+      Indiana University Richard M. Fairbanks School of Public Health (J.M.D.), 
+      Indianapolis, Clark County Health Department, Jeffersonville (J.S., D.W.), and Scott 
+      County Health Department, Scottsburg (B.C.) - all in Indiana.
+FAU - Combs, Brittany
+AU  - Combs B
+AD  - From the Division of HIV/AIDS Prevention, National Center for HIV, Viral Hepatitis, 
+      STD, and TB Prevention, Centers for Disease Control and Prevention, Atlanta (P.J.P., 
+      K.W.H., M.R.P., R.R.G., M.W.S., W.M.S., Y.K., S.M.O., V.M., P.J.W., D.B., T.S., 
+      J.M., J.T.B.); and the Indiana State Department of Health (P.P., S.J.B., C.C., J.G., 
+      E.C., J.C.R., J.W., J.M.D.), Indiana University School of Medicine (J.W.), and 
+      Indiana University Richard M. Fairbanks School of Public Health (J.M.D.), 
+      Indianapolis, Clark County Health Department, Jeffersonville (J.S., D.W.), and Scott 
+      County Health Department, Scottsburg (B.C.) - all in Indiana.
+FAU - Switzer, William M
+AU  - Switzer WM
+AD  - From the Division of HIV/AIDS Prevention, National Center for HIV, Viral Hepatitis, 
+      STD, and TB Prevention, Centers for Disease Control and Prevention, Atlanta (P.J.P., 
+      K.W.H., M.R.P., R.R.G., M.W.S., W.M.S., Y.K., S.M.O., V.M., P.J.W., D.B., T.S., 
+      J.M., J.T.B.); and the Indiana State Department of Health (P.P., S.J.B., C.C., J.G., 
+      E.C., J.C.R., J.W., J.M.D.), Indiana University School of Medicine (J.W.), and 
+      Indiana University Richard M. Fairbanks School of Public Health (J.M.D.), 
+      Indianapolis, Clark County Health Department, Jeffersonville (J.S., D.W.), and Scott 
+      County Health Department, Scottsburg (B.C.) - all in Indiana.
+FAU - Conrad, Caitlin
+AU  - Conrad C
+AD  - From the Division of HIV/AIDS Prevention, National Center for HIV, Viral Hepatitis, 
+      STD, and TB Prevention, Centers for Disease Control and Prevention, Atlanta (P.J.P., 
+      K.W.H., M.R.P., R.R.G., M.W.S., W.M.S., Y.K., S.M.O., V.M., P.J.W., D.B., T.S., 
+      J.M., J.T.B.); and the Indiana State Department of Health (P.P., S.J.B., C.C., J.G., 
+      E.C., J.C.R., J.W., J.M.D.), Indiana University School of Medicine (J.W.), and 
+      Indiana University Richard M. Fairbanks School of Public Health (J.M.D.), 
+      Indianapolis, Clark County Health Department, Jeffersonville (J.S., D.W.), and Scott 
+      County Health Department, Scottsburg (B.C.) - all in Indiana.
+FAU - Gentry, Jessica
+AU  - Gentry J
+AD  - From the Division of HIV/AIDS Prevention, National Center for HIV, Viral Hepatitis, 
+      STD, and TB Prevention, Centers for Disease Control and Prevention, Atlanta (P.J.P., 
+      K.W.H., M.R.P., R.R.G., M.W.S., W.M.S., Y.K., S.M.O., V.M., P.J.W., D.B., T.S., 
+      J.M., J.T.B.); and the Indiana State Department of Health (P.P., S.J.B., C.C., J.G., 
+      E.C., J.C.R., J.W., J.M.D.), Indiana University School of Medicine (J.W.), and 
+      Indiana University Richard M. Fairbanks School of Public Health (J.M.D.), 
+      Indianapolis, Clark County Health Department, Jeffersonville (J.S., D.W.), and Scott 
+      County Health Department, Scottsburg (B.C.) - all in Indiana.
+FAU - Khudyakov, Yury
+AU  - Khudyakov Y
+AD  - From the Division of HIV/AIDS Prevention, National Center for HIV, Viral Hepatitis, 
+      STD, and TB Prevention, Centers for Disease Control and Prevention, Atlanta (P.J.P., 
+      K.W.H., M.R.P., R.R.G., M.W.S., W.M.S., Y.K., S.M.O., V.M., P.J.W., D.B., T.S., 
+      J.M., J.T.B.); and the Indiana State Department of Health (P.P., S.J.B., C.C., J.G., 
+      E.C., J.C.R., J.W., J.M.D.), Indiana University School of Medicine (J.W.), and 
+      Indiana University Richard M. Fairbanks School of Public Health (J.M.D.), 
+      Indianapolis, Clark County Health Department, Jeffersonville (J.S., D.W.), and Scott 
+      County Health Department, Scottsburg (B.C.) - all in Indiana.
+FAU - Waterhouse, Dorothy
+AU  - Waterhouse D
+AD  - From the Division of HIV/AIDS Prevention, National Center for HIV, Viral Hepatitis, 
+      STD, and TB Prevention, Centers for Disease Control and Prevention, Atlanta (P.J.P., 
+      K.W.H., M.R.P., R.R.G., M.W.S., W.M.S., Y.K., S.M.O., V.M., P.J.W., D.B., T.S., 
+      J.M., J.T.B.); and the Indiana State Department of Health (P.P., S.J.B., C.C., J.G., 
+      E.C., J.C.R., J.W., J.M.D.), Indiana University School of Medicine (J.W.), and 
+      Indiana University Richard M. Fairbanks School of Public Health (J.M.D.), 
+      Indianapolis, Clark County Health Department, Jeffersonville (J.S., D.W.), and Scott 
+      County Health Department, Scottsburg (B.C.) - all in Indiana.
+FAU - Owen, S Michele
+AU  - Owen SM
+AD  - From the Division of HIV/AIDS Prevention, National Center for HIV, Viral Hepatitis, 
+      STD, and TB Prevention, Centers for Disease Control and Prevention, Atlanta (P.J.P., 
+      K.W.H., M.R.P., R.R.G., M.W.S., W.M.S., Y.K., S.M.O., V.M., P.J.W., D.B., T.S., 
+      J.M., J.T.B.); and the Indiana State Department of Health (P.P., S.J.B., C.C., J.G., 
+      E.C., J.C.R., J.W., J.M.D.), Indiana University School of Medicine (J.W.), and 
+      Indiana University Richard M. Fairbanks School of Public Health (J.M.D.), 
+      Indianapolis, Clark County Health Department, Jeffersonville (J.S., D.W.), and Scott 
+      County Health Department, Scottsburg (B.C.) - all in Indiana.
+FAU - Chapman, Erika
+AU  - Chapman E
+AD  - From the Division of HIV/AIDS Prevention, National Center for HIV, Viral Hepatitis, 
+      STD, and TB Prevention, Centers for Disease Control and Prevention, Atlanta (P.J.P., 
+      K.W.H., M.R.P., R.R.G., M.W.S., W.M.S., Y.K., S.M.O., V.M., P.J.W., D.B., T.S., 
+      J.M., J.T.B.); and the Indiana State Department of Health (P.P., S.J.B., C.C., J.G., 
+      E.C., J.C.R., J.W., J.M.D.), Indiana University School of Medicine (J.W.), and 
+      Indiana University Richard M. Fairbanks School of Public Health (J.M.D.), 
+      Indianapolis, Clark County Health Department, Jeffersonville (J.S., D.W.), and Scott 
+      County Health Department, Scottsburg (B.C.) - all in Indiana.
+FAU - Roseberry, Jeremy C
+AU  - Roseberry JC
+AD  - From the Division of HIV/AIDS Prevention, National Center for HIV, Viral Hepatitis, 
+      STD, and TB Prevention, Centers for Disease Control and Prevention, Atlanta (P.J.P., 
+      K.W.H., M.R.P., R.R.G., M.W.S., W.M.S., Y.K., S.M.O., V.M., P.J.W., D.B., T.S., 
+      J.M., J.T.B.); and the Indiana State Department of Health (P.P., S.J.B., C.C., J.G., 
+      E.C., J.C.R., J.W., J.M.D.), Indiana University School of Medicine (J.W.), and 
+      Indiana University Richard M. Fairbanks School of Public Health (J.M.D.), 
+      Indianapolis, Clark County Health Department, Jeffersonville (J.S., D.W.), and Scott 
+      County Health Department, Scottsburg (B.C.) - all in Indiana.
+FAU - McCants, Veronica
+AU  - McCants V
+AD  - From the Division of HIV/AIDS Prevention, National Center for HIV, Viral Hepatitis, 
+      STD, and TB Prevention, Centers for Disease Control and Prevention, Atlanta (P.J.P., 
+      K.W.H., M.R.P., R.R.G., M.W.S., W.M.S., Y.K., S.M.O., V.M., P.J.W., D.B., T.S., 
+      J.M., J.T.B.); and the Indiana State Department of Health (P.P., S.J.B., C.C., J.G., 
+      E.C., J.C.R., J.W., J.M.D.), Indiana University School of Medicine (J.W.), and 
+      Indiana University Richard M. Fairbanks School of Public Health (J.M.D.), 
+      Indianapolis, Clark County Health Department, Jeffersonville (J.S., D.W.), and Scott 
+      County Health Department, Scottsburg (B.C.) - all in Indiana.
+FAU - Weidle, Paul J
+AU  - Weidle PJ
+AD  - From the Division of HIV/AIDS Prevention, National Center for HIV, Viral Hepatitis, 
+      STD, and TB Prevention, Centers for Disease Control and Prevention, Atlanta (P.J.P., 
+      K.W.H., M.R.P., R.R.G., M.W.S., W.M.S., Y.K., S.M.O., V.M., P.J.W., D.B., T.S., 
+      J.M., J.T.B.); and the Indiana State Department of Health (P.P., S.J.B., C.C., J.G., 
+      E.C., J.C.R., J.W., J.M.D.), Indiana University School of Medicine (J.W.), and 
+      Indiana University Richard M. Fairbanks School of Public Health (J.M.D.), 
+      Indianapolis, Clark County Health Department, Jeffersonville (J.S., D.W.), and Scott 
+      County Health Department, Scottsburg (B.C.) - all in Indiana.
+FAU - Broz, Dita
+AU  - Broz D
+AD  - From the Division of HIV/AIDS Prevention, National Center for HIV, Viral Hepatitis, 
+      STD, and TB Prevention, Centers for Disease Control and Prevention, Atlanta (P.J.P., 
+      K.W.H., M.R.P., R.R.G., M.W.S., W.M.S., Y.K., S.M.O., V.M., P.J.W., D.B., T.S., 
+      J.M., J.T.B.); and the Indiana State Department of Health (P.P., S.J.B., C.C., J.G., 
+      E.C., J.C.R., J.W., J.M.D.), Indiana University School of Medicine (J.W.), and 
+      Indiana University Richard M. Fairbanks School of Public Health (J.M.D.), 
+      Indianapolis, Clark County Health Department, Jeffersonville (J.S., D.W.), and Scott 
+      County Health Department, Scottsburg (B.C.) - all in Indiana.
+FAU - Samandari, Taraz
+AU  - Samandari T
+AD  - From the Division of HIV/AIDS Prevention, National Center for HIV, Viral Hepatitis, 
+      STD, and TB Prevention, Centers for Disease Control and Prevention, Atlanta (P.J.P., 
+      K.W.H., M.R.P., R.R.G., M.W.S., W.M.S., Y.K., S.M.O., V.M., P.J.W., D.B., T.S., 
+      J.M., J.T.B.); and the Indiana State Department of Health (P.P., S.J.B., C.C., J.G., 
+      E.C., J.C.R., J.W., J.M.D.), Indiana University School of Medicine (J.W.), and 
+      Indiana University Richard M. Fairbanks School of Public Health (J.M.D.), 
+      Indianapolis, Clark County Health Department, Jeffersonville (J.S., D.W.), and Scott 
+      County Health Department, Scottsburg (B.C.) - all in Indiana.
+FAU - Mermin, Jonathan
+AU  - Mermin J
+AD  - From the Division of HIV/AIDS Prevention, National Center for HIV, Viral Hepatitis, 
+      STD, and TB Prevention, Centers for Disease Control and Prevention, Atlanta (P.J.P., 
+      K.W.H., M.R.P., R.R.G., M.W.S., W.M.S., Y.K., S.M.O., V.M., P.J.W., D.B., T.S., 
+      J.M., J.T.B.); and the Indiana State Department of Health (P.P., S.J.B., C.C., J.G., 
+      E.C., J.C.R., J.W., J.M.D.), Indiana University School of Medicine (J.W.), and 
+      Indiana University Richard M. Fairbanks School of Public Health (J.M.D.), 
+      Indianapolis, Clark County Health Department, Jeffersonville (J.S., D.W.), and Scott 
+      County Health Department, Scottsburg (B.C.) - all in Indiana.
+FAU - Walthall, Jennifer
+AU  - Walthall J
+AD  - From the Division of HIV/AIDS Prevention, National Center for HIV, Viral Hepatitis, 
+      STD, and TB Prevention, Centers for Disease Control and Prevention, Atlanta (P.J.P., 
+      K.W.H., M.R.P., R.R.G., M.W.S., W.M.S., Y.K., S.M.O., V.M., P.J.W., D.B., T.S., 
+      J.M., J.T.B.); and the Indiana State Department of Health (P.P., S.J.B., C.C., J.G., 
+      E.C., J.C.R., J.W., J.M.D.), Indiana University School of Medicine (J.W.), and 
+      Indiana University Richard M. Fairbanks School of Public Health (J.M.D.), 
+      Indianapolis, Clark County Health Department, Jeffersonville (J.S., D.W.), and Scott 
+      County Health Department, Scottsburg (B.C.) - all in Indiana.
+FAU - Brooks, John T
+AU  - Brooks JT
+AD  - From the Division of HIV/AIDS Prevention, National Center for HIV, Viral Hepatitis, 
+      STD, and TB Prevention, Centers for Disease Control and Prevention, Atlanta (P.J.P., 
+      K.W.H., M.R.P., R.R.G., M.W.S., W.M.S., Y.K., S.M.O., V.M., P.J.W., D.B., T.S., 
+      J.M., J.T.B.); and the Indiana State Department of Health (P.P., S.J.B., C.C., J.G., 
+      E.C., J.C.R., J.W., J.M.D.), Indiana University School of Medicine (J.W.), and 
+      Indiana University Richard M. Fairbanks School of Public Health (J.M.D.), 
+      Indianapolis, Clark County Health Department, Jeffersonville (J.S., D.W.), and Scott 
+      County Health Department, Scottsburg (B.C.) - all in Indiana.
+FAU - Duwve, Joan M
+AU  - Duwve JM
+AD  - From the Division of HIV/AIDS Prevention, National Center for HIV, Viral Hepatitis, 
+      STD, and TB Prevention, Centers for Disease Control and Prevention, Atlanta (P.J.P., 
+      K.W.H., M.R.P., R.R.G., M.W.S., W.M.S., Y.K., S.M.O., V.M., P.J.W., D.B., T.S., 
+      J.M., J.T.B.); and the Indiana State Department of Health (P.P., S.J.B., C.C., J.G., 
+      E.C., J.C.R., J.W., J.M.D.), Indiana University School of Medicine (J.W.), and 
+      Indiana University Richard M. Fairbanks School of Public Health (J.M.D.), 
+      Indianapolis, Clark County Health Department, Jeffersonville (J.S., D.W.), and Scott 
+      County Health Department, Scottsburg (B.C.) - all in Indiana.
+CN  - Indiana HIV Outbreak Investigation Team
+LA  - eng
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+PT  - Research Support, U.S. Gov't, Non-P.H.S.
+PL  - United States
+TA  - N Engl J Med
+JT  - The New England journal of medicine
+JID - 0255562
+RN  - 9VXA968E0C (Oxymorphone)
+SB  - IM
+MH  - Adolescent
+MH  - Adult
+MH  - Coinfection
+MH  - Contact Tracing
+MH  - *Disease Outbreaks
+MH  - HIV Infections/*epidemiology/transmission
+MH  - HIV-1/*genetics
+MH  - Hepatitis C/epidemiology
+MH  - Humans
+MH  - Indiana/epidemiology
+MH  - Male
+MH  - Middle Aged
+MH  - Needle Sharing/adverse effects
+MH  - Oxymorphone/*administration & dosage
+MH  - Phylogeny
+MH  - Social Support
+MH  - Substance Abuse, Intravenous/*complications
+MH  - Young Adult
+FIR - Hall, Patti
+IR  - Hall P
+FIR - McCarty, Jeannie
+IR  - McCarty J
+FIR - Lovchik, Judy
+IR  - Lovchik J
+FIR - Hillman, Dan
+IR  - Hillman D
+FIR - Myers, Jennifer
+IR  - Myers J
+FIR - Gross, Brittany
+IR  - Gross B
+FIR - Sandoval-Rosario, Michelle
+IR  - Sandoval-Rosario M
+FIR - Austin, Mark
+IR  - Austin M
+FIR - Bradley, Heather
+IR  - Bradley H
+FIR - Byrd, Kathy
+IR  - Byrd K
+FIR - Campbell, Ellsworth
+IR  - Campbell E
+FIR - Chavez, Pollyanna
+IR  - Chavez P
+FIR - Chen, Yao Hsuan
+IR  - Chen YH
+FIR - Curran, Kathryn
+IR  - Curran K
+FIR - Cooley, Laura
+IR  - Cooley L
+FIR - DiNenno, Elizabeth Liz
+IR  - DiNenno EL
+FIR - Dominguez, Ken
+IR  - Dominguez K
+FIR - Duncan, Ted
+IR  - Duncan T
+FIR - Fanfair, Robyn Neblett
+IR  - Fanfair RN
+FIR - Fikes, Norm
+IR  - Fikes N
+FIR - Garg, Shikah
+IR  - Garg S
+FIR - Gokhale, Runa
+IR  - Gokhale R
+FIR - Ham, Cal
+IR  - Ham C
+FIR - Harmon, Brittani
+IR  - Harmon B
+FIR - Harris, Aaron
+IR  - Harris A
+FIR - Harris, Norma
+IR  - Harris N
+FIR - Heneine, Walid
+IR  - Heneine W
+FIR - Hoots, Brooke
+IR  - Hoots B
+FIR - Jia, Hongwei
+IR  - Jia H
+FIR - Jones, Jaime R
+IR  - Jones JR
+FIR - Luo, Wei
+IR  - Luo W
+FIR - Masciotra, Silvina
+IR  - Masciotra S
+FIR - McCray, Eugene
+IR  - McCray E
+FIR - McGinn, Nikki
+IR  - McGinn N
+FIR - Needle, Richard
+IR  - Needle R
+FIR - Ramachandran, Sumathi
+IR  - Ramachandran S
+FIR - Rose, Charles E
+IR  - Rose CE
+FIR - Sereday, Karen
+IR  - Sereday K
+FIR - Shankar, Anupama
+IR  - Shankar A
+FIR - Sionean, Catlainn
+IR  - Sionean C
+FIR - Skarbinski, Jacek
+IR  - Skarbinski J
+FIR - Spradling, Philip
+IR  - Spradling P
+FIR - Teshale, Eyasu H
+IR  - Teshale EH
+FIR - Thai, Hong
+IR  - Thai H
+FIR - Van Handle, Michelle
+IR  - Van Handle M
+FIR - Walker, Tanja
+IR  - Walker T
+FIR - Walker, Tonya Ross
+IR  - Walker TR
+FIR - Xia, Guoliang
+IR  - Xia G
+FIR - Zibbell, Jon
+IR  - Zibbell J
+EDAT- 2016/07/29 06:00
+MHDA- 2016/08/10 06:00
+CRDT- 2016/07/29 06:00
+PHST- 2016/07/29 06:00 [entrez]
+PHST- 2016/07/29 06:00 [pubmed]
+PHST- 2016/08/10 06:00 [medline]
+AID - 10.1056/NEJMoa1515195 [doi]
+PST - ppublish
+SO  - N Engl J Med. 2016 Jul 21;375(3):229-39. doi: 10.1056/NEJMoa1515195.
+
+PMID- 31523983
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20201209
+LR  - 20210101
+IS  - 1931-8405 (Electronic)
+IS  - 0889-2229 (Print)
+IS  - 0889-2229 (Linking)
+VI  - 36
+IP  - 1
+DP  - 2020 Jan
+TI  - A Proportion of Self-Collected Rectal Swabs Yield Human Immunodeficiency Virus 
+      Sequences Phylogenetically Related to Those from Plasma Human Immunodeficiency Virus 
+      RNA.
+PG  - 92-95
+LID - 10.1089/AID.2019.0170 [doi]
+AB  - We determined HIV-1 pol gene sequences from self-collected rectal swabs of 
+      HIV-positive young men who have sex with men and transgender women. HIV-1 pol was 
+      amplified from 39/96 (41%) rectal swabs, including 29/77 (38%) prevalent and 10/19 
+      (53%) incident HIV-1 infections (p < .001). Pol did not amplify from rectal swabs 
+      from participants with plasma viral load <1,000 copies/mL. Each rectal swab-derived 
+      amplicon consensus sequence was most closely related to the paired plasma virion 
+      RNA-derived sequence from the same participant. Results document a rectal mucosal 
+      source of HIV-1 in infected persons and suggest usefulness for noninvasive study of 
+      biological mechanisms underlying the epidemiologic risk to an insertive partner of 
+      HIV-1 acquisition during condomless anal sex.
+FAU - Hudson, Hannah
+AU  - Hudson H
+AD  - Division of Infectious Diseases and HIV Translational Research Center, Department of 
+      Medicine, Northwestern University Feinberg School of Medicine, Chicago, Illinois.
+FAU - D'Aquila, Richard
+AU  - D'Aquila R
+AD  - Division of Infectious Diseases and HIV Translational Research Center, Department of 
+      Medicine, Northwestern University Feinberg School of Medicine, Chicago, Illinois.
+FAU - Mustanski, Brian
+AU  - Mustanski B
+AD  - Institute for Sexual and Gender Minority Health and Wellbeing, Northwestern 
+      University, Chicago, Illinois.
+AD  - Department of Medical Social Sciences, Northwestern University Feinberg School of 
+      Medicine, Chicago, Illinois.
+FAU - Morgan, Ethan
+AU  - Morgan E
+AD  - Institute for Sexual and Gender Minority Health and Wellbeing, Northwestern 
+      University, Chicago, Illinois.
+LA  - eng
+GR  - U01 DA036939/DA/NIDA NIH HHS/United States
+GR  - F32 DA046313/DA/NIDA NIH HHS/United States
+GR  - P30 AI117943/AI/NIAID NIH HHS/United States
+PT  - Journal Article
+PT  - Research Support, N.I.H., Extramural
+DEP - 20191024
+TA  - AIDS Res Hum Retroviruses
+JT  - AIDS research and human retroviruses
+JID - 8709376
+RN  - 0 (RNA, Viral)
+SB  - IM
+MH  - Adolescent
+MH  - Adult
+MH  - Chicago/epidemiology
+MH  - Cohort Studies
+MH  - Female
+MH  - Genes, pol/genetics
+MH  - HIV Infections/*blood/*virology
+MH  - HIV-1/classification/*genetics/isolation & purification
+MH  - Humans
+MH  - Male
+MH  - Mucous Membrane/virology
+MH  - *Phylogeny
+MH  - RNA, Viral/*blood
+MH  - Rectum/*virology
+MH  - Sexual Behavior
+MH  - Sexual Partners
+MH  - Sexual and Gender Minorities
+MH  - Specimen Handling/methods
+MH  - Transgender Persons
+MH  - Viral Load
+MH  - Young Adult
+PMC - PMC6944135
+OTO - NOTNLM
+OT  - *HIV
+OT  - *mucosal
+OT  - *phylogenetics
+COIS- No competing financial interests exist.
+EDAT- 2019/09/17 06:00
+MHDA- 2020/12/15 06:00
+CRDT- 2019/09/17 06:00
+PHST- 2019/09/17 06:00 [pubmed]
+PHST- 2020/12/15 06:00 [medline]
+PHST- 2019/09/17 06:00 [entrez]
+AID - 10.1089/aid.2019.0170 [pii]
+AID - 10.1089/AID.2019.0170 [doi]
+PST - ppublish
+SO  - AIDS Res Hum Retroviruses. 2020 Jan;36(1):92-95. doi: 10.1089/AID.2019.0170. Epub 
+      2019 Oct 24.
+
+PMID- 30403157
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20200414
+LR  - 20211117
+IS  - 1931-8405 (Electronic)
+IS  - 0889-2229 (Print)
+IS  - 0889-2229 (Linking)
+VI  - 35
+IP  - 4
+DP  - 2019 Apr
+TI  - Estimating Effects of HIV Sequencing Data Completeness on Transmission Network 
+      Patterns and Detection of Growing HIV Transmission Clusters.
+PG  - 368-375
+LID - 10.1089/AID.2018.0181 [doi]
+AB  - HIV nucleotide sequence data can identify clusters of persons with genetically 
+      similar strains suggesting transmission. We simulated the effect of lowered data 
+      completeness, defined by the percent of persons with diagnosed HIV with a reported 
+      sequence, on transmission patterns and detection of growing HIV transmission 
+      clusters. We analyzed HIV surveillance data for persons with HIV diagnosed during 
+      2008-2014 who resided in Michigan or Washington. We calculated genetic distances, 
+      constructed the inferred transmission network for each jurisdiction, and compared 
+      transmission network characteristics and detection of growing transmission clusters 
+      in the full dataset with artificially reduced datasets. Simulating lower levels of 
+      completeness resulted in decreased percentages of persons linked to a cluster from 
+      high completeness (full dataset) to low completeness (5%) (Michigan: 54%-18%; 
+      Washington, 46%-16%). Patterns of transmission between certain populations remained 
+      robust as data completeness level was reduced. As data completeness was artificially 
+      decreased, sensitivity of cluster detection substantially diminished in both states. 
+      In Michigan, sensitivity decreased from 100% with the full dataset, to 62% at 50% 
+      completeness and 21% at 25% completeness. In Washington, sensitivity decreased from 
+      100% with the full dataset, to 71% at 50% completeness and 29% at 25% completeness. 
+      Lower sequence data completeness limits the ability to detect clusters that may 
+      benefit from investigation; however, inferences can be made about transmission 
+      patterns even with low data completeness, given sufficient numbers. Data 
+      completeness should be prioritized, as lack of or delays in detection of 
+      transmission clusters could result in additional infections.
+FAU - Dasgupta, Sharoda
+AU  - Dasgupta S
+AD  - 1 Division of HIV/AIDS Prevention, Centers for Disease Control and Prevention , 
+      Atlanta, Georgia .
+FAU - France, Anne Marie
+AU  - France AM
+AD  - 1 Division of HIV/AIDS Prevention, Centers for Disease Control and Prevention , 
+      Atlanta, Georgia .
+FAU - Brandt, Mary-Grace
+AU  - Brandt MG
+AD  - 2 Michigan Department of Health and Human Services, Southfield, Michigan.
+FAU - Reuer, Jennifer
+AU  - Reuer J
+AD  - 3 Washington State Department of Health, Tumwater, Washington.
+FAU - Zhang, Tianchi
+AU  - Zhang T
+AD  - 4 ICF International , Atlanta, Georgia .
+FAU - Panneer, Nivedha
+AU  - Panneer N
+AD  - 1 Division of HIV/AIDS Prevention, Centers for Disease Control and Prevention , 
+      Atlanta, Georgia .
+FAU - Hernandez, Angela L
+AU  - Hernandez AL
+AD  - 1 Division of HIV/AIDS Prevention, Centers for Disease Control and Prevention , 
+      Atlanta, Georgia .
+FAU - Oster, Alexandra M
+AU  - Oster AM
+AD  - 1 Division of HIV/AIDS Prevention, Centers for Disease Control and Prevention , 
+      Atlanta, Georgia .
+LA  - eng
+GR  - CC999999/ImCDC/Intramural CDC HHS/United States
+PT  - Journal Article
+DEP - 20181220
+TA  - AIDS Res Hum Retroviruses
+JT  - AIDS research and human retroviruses
+JID - 8709376
+SB  - IM
+MH  - Adolescent
+MH  - Adult
+MH  - Base Sequence
+MH  - Cluster Analysis
+MH  - Female
+MH  - HIV Infections/*epidemiology/*transmission
+MH  - HIV-1/*genetics
+MH  - Humans
+MH  - Male
+MH  - Michigan
+MH  - Middle Aged
+MH  - Phylogeny
+MH  - Sequence Analysis, DNA
+MH  - Washington
+MH  - Young Adult
+PMC - PMC8593790
+MID - NIHMS1752217
+OTO - NOTNLM
+OT  - *HIV
+OT  - *completeness
+OT  - *detection
+OT  - *sensitivity
+OT  - *sequence
+OT  - *transmission cluster
+COIS- Author Disclosure Statement No competing financial interests exist.
+EDAT- 2018/11/08 06:00
+MHDA- 2020/04/15 06:00
+CRDT- 2018/11/08 06:00
+PHST- 2018/11/08 06:00 [pubmed]
+PHST- 2020/04/15 06:00 [medline]
+PHST- 2018/11/08 06:00 [entrez]
+AID - 10.1089/AID.2018.0181 [doi]
+PST - ppublish
+SO  - AIDS Res Hum Retroviruses. 2019 Apr;35(4):368-375. doi: 10.1089/AID.2018.0181. Epub 
+      2018 Dec 20.
+
+PMID- 17518528
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20070703
+LR  - 20070523
+IS  - 1087-2914 (Print)
+IS  - 1087-2914 (Linking)
+VI  - 21
+IP  - 5
+DP  - 2007 May
+TI  - Demographic, clinical, and virologic characteristics of African-born persons with 
+      HIV/AIDS in a Minnesota hospital.
+PG  - 356-65
+AB  - Minnesota is currently home to the tenth largest African population and the second 
+      largest East African population in the United States. HIV is increasingly being 
+      diagnosed in African-born persons in Minnesota. A retrospective survey was conducted 
+      on all African-born patients in our HIV clinic between January 1994 and June 2005. 
+      We identified 237 patients who were African-born and HIV-positive. They constituted 
+      12% of patients attending the clinic within the study timeframe. There was no 
+      significant difference in the ages of the African-born and non-African patients in 
+      the HIV clinic. African-born patients were more likely to be women compared with 
+      non-African patients (p < 0.001). Forty-three percent of the African-born patients 
+      presented with AIDS as defined by CD4(+) T cell counts less than 200 cells per 
+      milliliter compared to 33% of antiretroviral naïve non-African HIV patients in the 
+      clinic (p < 0.001). Most patients were infected through heterosexual contact and 
+      only 4% were diagnosed as a result of routine testing. Seven known HIV subtypes and 
+      four unique recombinant forms were identified. The most common opportunistic 
+      infection was pulmonary tuberculosis. African immigrants with HIV appear to: (1) 
+      access care at later stages of HIV disease than other patients in our clinic; (2) 
+      are often infected with non-B subtypes; (3) do not routinely get tested for HIV. 
+      Increased awareness to this growing trend is needed for health care providers and 
+      public health officials to tailor educational programs and prevention efforts for 
+      African immigrants in the United States.
+FAU - Akinsete, Omobosola O
+AU  - Akinsete OO
+AD  - University of Minnesota/HIV Program Hennepin County Medical Center, Minneapolis, 
+      Minnesota 55405, USA. BosolaA@aol.com
+FAU - Sides, Tracy
+AU  - Sides T
+FAU - Hirigoyen, Diane
+AU  - Hirigoyen D
+FAU - Cartwright, Charles
+AU  - Cartwright C
+FAU - Boraas, Christy
+AU  - Boraas C
+FAU - Davey, Cynthia
+AU  - Davey C
+FAU - Pessoa-Brandão, Luisa
+AU  - Pessoa-Brandão L
+FAU - McLaughlin, Mary
+AU  - McLaughlin M
+FAU - Kane, Ellen
+AU  - Kane E
+FAU - Hall, Jane
+AU  - Hall J
+FAU - Henry, Keith
+AU  - Henry K
+LA  - eng
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+PL  - United States
+TA  - AIDS Patient Care STDS
+JT  - AIDS patient care and STDs
+JID - 9607225
+SB  - IM
+MH  - AIDS-Related Opportunistic Infections/epidemiology
+MH  - Adolescent
+MH  - Adult
+MH  - Africa/ethnology
+MH  - Aged
+MH  - Antiretroviral Therapy, Highly Active
+MH  - CD4 Lymphocyte Count
+MH  - Emigration and Immigration
+MH  - Female
+MH  - HIV Infections/*ethnology/therapy/virology
+MH  - HIV-1/*classification
+MH  - Health Services Needs and Demand
+MH  - Humans
+MH  - Male
+MH  - Middle Aged
+MH  - Minnesota/epidemiology
+MH  - Retrospective Studies
+MH  - Sex Distribution
+EDAT- 2007/05/24 09:00
+MHDA- 2007/07/04 09:00
+CRDT- 2007/05/24 09:00
+PHST- 2007/05/24 09:00 [pubmed]
+PHST- 2007/07/04 09:00 [medline]
+PHST- 2007/05/24 09:00 [entrez]
+AID - 10.1089/apc.2006.0074 [doi]
+PST - ppublish
+SO  - AIDS Patient Care STDS. 2007 May;21(5):356-65. doi: 10.1089/apc.2006.0074.
+
+PMID- 28328553
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20170919
+LR  - 20200930
+IS  - 1944-7884 (Electronic)
+IS  - 1525-4135 (Print)
+IS  - 1525-4135 (Linking)
+VI  - 75
+IP  - 3
+DP  - 2017 Jul 1
+TI  - Determinants of HIV Phylogenetic Clustering in Chicago Among Young Black Men Who 
+      Have Sex With Men From the uConnect Cohort.
+PG  - 265-270
+LID - 10.1097/QAI.0000000000001379 [doi]
+AB  - INTRODUCTION: Phylogenetic analysis determines similarities among HIV genetic 
+      sequences from persons infected with HIV, identifying clusters of transmission. We 
+      determined characteristics associated with both membership in an HIV transmission 
+      cluster and the number of clustered sequences among a cohort of young black men who 
+      have sex with men (YBMSM) in Chicago. METHODS: Pairwise genetic distances of HIV-1 
+      pol sequences were collected during 2013-2016. Potential transmission ties were 
+      identified among HIV-infected persons whose sequences were ≤1.5% genetically 
+      distant. Putative transmission pairs were defined as ≥1 tie to another sequence. We 
+      then determined demographic and risk attributes associated with both membership in 
+      an HIV transmission cluster and the number of ties to the sequences from other 
+      persons in the cluster. RESULTS: Of 86 available sequences, 31 (36.0%) were tied to 
+      ≥1 other sequence. Through multivariable analyses, we determined that those who 
+      reported symptoms of depression and those who had a higher number of confidants in 
+      their network had significantly decreased odds of membership in transmission 
+      clusters. We found that those who had unstable housing and who reported heavy 
+      marijuana use had significantly more ties to other individuals within transmission 
+      clusters, whereas those identifying as bisexual, those participating in group sex, 
+      and those with higher numbers of sexual partners had significantly fewer ties. 
+      CONCLUSIONS: This study demonstrates the potential for combining phylogenetic and 
+      individual and network attributes to target HIV control efforts to persons with 
+      potentially higher transmission risk, as well as suggesting some unappreciated 
+      specific predictors of transmission risk among YBMSM in Chicago for future study.
+FAU - Morgan, Ethan
+AU  - Morgan E
+AD  - *Department of Public Health Sciences, University of Chicago, Chicago, IL; 
+      †Department of Medicine, Northwestern University, Chicago, IL; and ‡Department of 
+      Medicine, University of Chicago, Chicago, IL.
+FAU - Nyaku, Amesika N
+AU  - Nyaku AN
+FAU - DʼAquila, Richard T
+AU  - DʼAquila RT
+FAU - Schneider, John A
+AU  - Schneider JA
+LA  - eng
+GR  - R01 DA039934/DA/NIDA NIH HHS/United States
+GR  - R01 DA033875/DA/NIDA NIH HHS/United States
+GR  - R21 MH098768/MH/NIMH NIH HHS/United States
+GR  - P30 AI027757/AI/NIAID NIH HHS/United States
+GR  - P30 AI117943/AI/NIAID NIH HHS/United States
+GR  - UM1 AI068636/AI/NIAID NIH HHS/United States
+PT  - Journal Article
+PT  - Research Support, N.I.H., Extramural
+PT  - Research Support, Non-U.S. Gov't
+TA  - J Acquir Immune Defic Syndr
+JT  - Journal of acquired immune deficiency syndromes (1999)
+JID - 100892005
+SB  - IM
+MH  - Adolescent
+MH  - Adult
+MH  - African Americans/psychology/*statistics & numerical data
+MH  - Chicago/epidemiology
+MH  - Cluster Analysis
+MH  - HIV/*genetics/*isolation & purification
+MH  - HIV Infections/*epidemiology/*transmission/virology
+MH  - Homosexuality, Male/psychology/*statistics & numerical data
+MH  - Humans
+MH  - Longitudinal Studies
+MH  - Male
+MH  - Phylogeny
+MH  - Risk Factors
+MH  - Social Support
+MH  - Young Adult
+PMC - PMC5472497
+MID - NIHMS860671
+EDAT- 2017/03/23 06:00
+MHDA- 2017/09/20 06:00
+CRDT- 2017/03/23 06:00
+PHST- 2017/03/23 06:00 [pubmed]
+PHST- 2017/09/20 06:00 [medline]
+PHST- 2017/03/23 06:00 [entrez]
+AID - 10.1097/QAI.0000000000001379 [doi]
+PST - ppublish
+SO  - J Acquir Immune Defic Syndr. 2017 Jul 1;75(3):265-270. doi: 
+      10.1097/QAI.0000000000001379.
+
+PMID- 24473489
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20141217
+LR  - 20181202
+IS  - 1542-6270 (Electronic)
+IS  - 1060-0280 (Linking)
+VI  - 48
+IP  - 4
+DP  - 2014 Apr
+TI  - Incidence of transmitted antiretroviral drug resistance in treatment-naive 
+      HIV-1-infected persons in a large South Central United States clinic.
+PG  - 470-5
+LID - 10.1177/1060028013519246 [doi]
+AB  - BACKGROUND: Transmitted drug resistance (TDR) can limit effective treatment options 
+      to antiretroviral-naive HIV-infected persons and increase the risk of treatment 
+      failure. Limited estimates of TDR have been reported from the South Central United 
+      States. OBJECTIVE: To describe the incidence of TDR in Oklahoma and to examine 
+      whether TDR rates have increased with time. METHODS: This was a retrospective 
+      observational study of antiretroviral-naive patients at the Infectious Diseases 
+      Institute, a large infectious diseases clinic in Oklahoma City, Oklahoma, who had 
+      received baseline antiretroviral resistance testing. Mutations were screened using 
+      the 2011 International Antiviral Society-USA Drug Resistance Mutation (DRM) update, 
+      and categorized using the 2009 World Health Organization (WHO) Surveillance Drug 
+      Resistance Mutation (SDRM) list. RESULTS: Genotypic sequences from 428 patients 
+      revealed a 6.0% to 13.6% incidence of SDRMs between 2007 and 2011, though no 
+      progression in the frequency was apparent during the study period. Primary DRMs were 
+      detected in 12.6% of the sampled patients, most commonly involving nonnucleoside 
+      reverse transcriptase inhibitors (NNRTIs; 8.2%), followed by protease inhibitors 
+      (PIs; 3.5%) and nucleoside reverse transcriptase inhibitors (NRTIs; 3.3%). The 
+      K103N/S and E138A reverse transcriptase mutations were the most common DRMs 
+      identified, both present in 3.5% of patients. The L90M mutation was the most 
+      frequently observed PI SDRM (1.6%), while the T215C/D/I mutation was the most common 
+      NRTI SDRM identified (1.9%). This study was limited by the fact that the WHO SDRM 
+      list was last updated in 2009. CONCLUSIONS: The frequency of DRMs in central and 
+      western Oklahoma is similar to recently reported rates in the United States which 
+      lack data from this region. However, the frequency of second-generation NNRTI DRMs 
+      (4.4%) suggests the need to closely monitor epidemiologic trends for increasing 
+      resistance rates to individual classes of ARVs in order to predict the impact of TDR 
+      on therapeutic options.
+FAU - Kleyn, Thomas J
+AU  - Kleyn TJ
+AD  - Western University of Health Sciences, Pomona, CA, USA.
+FAU - Liedtke, Michelle D
+AU  - Liedtke MD
+FAU - Harrison, Donald L
+AU  - Harrison DL
+FAU - Lockhart, Staci M
+AU  - Lockhart SM
+FAU - Salvaggio, Michelle R
+AU  - Salvaggio MR
+FAU - Ripley, Toni L
+AU  - Ripley TL
+FAU - Rathbun, R Chris
+AU  - Rathbun RC
+LA  - eng
+PT  - Journal Article
+PT  - Observational Study
+DEP - 20140128
+PL  - United States
+TA  - Ann Pharmacother
+JT  - The Annals of pharmacotherapy
+JID - 9203131
+RN  - 0 (Anti-HIV Agents)
+RN  - 0 (HIV Protease Inhibitors)
+RN  - 0 (Reverse Transcriptase Inhibitors)
+SB  - IM
+MH  - Adolescent
+MH  - Adult
+MH  - Aged
+MH  - Anti-HIV Agents/*therapeutic use
+MH  - Drug Resistance, Viral/*genetics
+MH  - Female
+MH  - Genotype
+MH  - HIV Infections/*drug therapy/epidemiology/transmission/virology
+MH  - HIV Protease Inhibitors/therapeutic use
+MH  - HIV-1/*drug effects/genetics
+MH  - Humans
+MH  - Incidence
+MH  - Male
+MH  - Middle Aged
+MH  - Mutation
+MH  - Oklahoma/epidemiology
+MH  - Retrospective Studies
+MH  - Reverse Transcriptase Inhibitors/therapeutic use
+MH  - Young Adult
+OTO - NOTNLM
+OT  - HIV-1
+OT  - Oklahoma
+OT  - antiretroviral
+OT  - drug resistance
+OT  - transmission
+EDAT- 2014/01/30 06:00
+MHDA- 2014/12/18 06:00
+CRDT- 2014/01/30 06:00
+PHST- 2014/01/30 06:00 [entrez]
+PHST- 2014/01/30 06:00 [pubmed]
+PHST- 2014/12/18 06:00 [medline]
+AID - 1060028013519246 [pii]
+AID - 10.1177/1060028013519246 [doi]
+PST - ppublish
+SO  - Ann Pharmacother. 2014 Apr;48(4):470-5. doi: 10.1177/1060028013519246. Epub 2014 Jan 
+      28.
+
+PMID- 22873480
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20121023
+LR  - 20211021
+IS  - 1541-0048 (Electronic)
+IS  - 0090-0036 (Print)
+IS  - 0090-0036 (Linking)
+VI  - 102
+IP  - 9
+DP  - 2012 Sep
+TI  - Syndemic theory and HIV-related risk among young transgender women: the role of 
+      multiple, co-occurring health problems and social marginalization.
+PG  - 1751-7
+AB  - OBJECTIVES: We assessed whether multiple psychosocial factors are additive in their 
+      relationship to sexual risk behavior and self-reported HIV status (i.e., can be 
+      characterized as a syndemic) among young transgender women and the relationship of 
+      indicators of social marginalization to psychosocial factors. METHODS: Participants 
+      (n = 151) were aged 15 to 24 years and lived in Chicago or Los Angeles. We collected 
+      data on psychosocial factors (low self-esteem, polysubstance use, victimization 
+      related to transgender identity, and intimate partner violence) and social 
+      marginalization indicators (history of commercial sex work, homelessness, and 
+      incarceration) through an interviewer-administered survey. RESULTS: Syndemic factors 
+      were positively and additively related to sexual risk behavior and self-reported HIV 
+      infection. In addition, our syndemic index was significantly related to 2 indicators 
+      of social marginalization: a history of sex work and previous incarceration. 
+      CONCLUSIONS: These findings provide evidence for a syndemic of co-occurring 
+      psychosocial and health problems in young transgender women, taking place in a 
+      context of social marginalization.
+FAU - Brennan, Julia
+AU  - Brennan J
+AD  - Children's Memorial Hospital, Chicago, IL, USA.
+FAU - Kuhns, Lisa M
+AU  - Kuhns LM
+FAU - Johnson, Amy K
+AU  - Johnson AK
+FAU - Belzer, Marvin
+AU  - Belzer M
+FAU - Wilson, Erin C
+AU  - Wilson EC
+FAU - Garofalo, Robert
+AU  - Garofalo R
+CN  - Adolescent Medicine Trials Network for HIV/AIDS Interventions
+LA  - eng
+GR  - U01 HD052172-05/HD/NICHD NIH HHS/United States
+GR  - U01 HD040533/HD/NICHD NIH HHS/United States
+GR  - U01 HD052172-01/HD/NICHD NIH HHS/United States
+GR  - U01 HD052172-04/HD/NICHD NIH HHS/United States
+GR  - U01 HD052172-02/HD/NICHD NIH HHS/United States
+GR  - U01 HD052172/HD/NICHD NIH HHS/United States
+GR  - U01 HD040474/HD/NICHD NIH HHS/United States
+GR  - U01 HD052172-03/HD/NICHD NIH HHS/United States
+PT  - Journal Article
+PT  - Research Support, N.I.H., Extramural
+DEP - 20120216
+TA  - Am J Public Health
+JT  - American journal of public health
+JID - 1254074
+SB  - IM
+MH  - Adolescent
+MH  - Adult
+MH  - Chicago/epidemiology
+MH  - Crime Victims/statistics & numerical data
+MH  - Data Collection
+MH  - Domestic Violence/statistics & numerical data
+MH  - Female
+MH  - *HIV
+MH  - HIV Infections/complications/*epidemiology/psychology
+MH  - Humans
+MH  - Los Angeles/epidemiology
+MH  - Psychology/*statistics & numerical data
+MH  - Risk Factors
+MH  - Risk-Taking
+MH  - Self Concept
+MH  - Sexual Behavior
+MH  - Substance-Related Disorders/epidemiology
+MH  - Transsexualism/complications/*epidemiology/psychology
+MH  - Young Adult
+PMC - PMC3416048
+MID - NIHMS354135
+EDAT- 2012/08/10 06:00
+MHDA- 2012/10/24 06:00
+CRDT- 2012/08/10 06:00
+PHST- 2012/08/10 06:00 [entrez]
+PHST- 2012/08/10 06:00 [pubmed]
+PHST- 2012/10/24 06:00 [medline]
+AID - 300433 [pii]
+AID - 10.2105/AJPH.2011.300433 [doi]
+PST - ppublish
+SO  - Am J Public Health. 2012 Sep;102(9):1751-7. doi: 10.2105/AJPH.2011.300433. Epub 2012 
+      Feb 16.
